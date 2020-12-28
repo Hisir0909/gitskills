@@ -5,4 +5,4 @@ Git tracks change.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Test new way merge.
-
+Test stash.
